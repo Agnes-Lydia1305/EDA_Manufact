@@ -2,6 +2,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+import pkg_resources
 from PIL import Image
 
 # Set the page configuration of the app, including the page title, icon, and layout.
