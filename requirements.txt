@@ -1,7 +1,7 @@
 streamlit
-scikit-learn==0.23.2
+scikit-learn==1.2.2
 xgboost==1.4.2
 numpy
 pillow
-pandas
+pandas==2.2.3
 setuptools
