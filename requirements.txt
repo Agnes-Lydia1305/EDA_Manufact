@@ -1,6 +1,6 @@
 numpy==1.26.0
 scikit-learn==1.2.2
 pandas==2.2.3
-xgboost
+xgboost==1.3.3
 streamlit
 Pillow
