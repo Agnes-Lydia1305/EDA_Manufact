@@ -6,7 +6,8 @@ import pkg_resources
 from PIL import Image
 
 import warnings
-warnings.filterwarnings("ignore", category=UserWarning, module='xgboost')
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
 
 
 # Set the page configuration of the app, including the page title, icon, and layout.
